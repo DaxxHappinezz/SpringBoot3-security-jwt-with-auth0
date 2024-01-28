@@ -1,0 +1,6 @@
+server:
+  port: 9191
+
+security:
+  key:
+    secret-key: thisisspringbootsecurityjwtdemoapplicationbyjames
